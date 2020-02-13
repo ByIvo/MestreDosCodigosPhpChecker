@@ -1,3 +1,6 @@
+# *REPOSITÓRIO DEPRECIADO*
+### REPOSITÓRIO FOI MOVIDO PARA [https://github.com/db1group/MestreDosCodigosPhpChecker](https://github.com/db1group/MestreDosCodigosPhpChecker)
+
 # Mestre dos códigos PHP Checker
 Esse repositório contém todos os testes automatizados para validação automatizada dos exercícios de PHP do Mestre dos códigos.
 
